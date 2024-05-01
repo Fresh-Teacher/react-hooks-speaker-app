@@ -1,6 +1,20 @@
 {
   "speakers": [
     {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "imageUrl": "/images/Speaker-New.jpg",
+      "sat": true,
+      "sun": true,
+      "favorite": true,
+      "company": "Code Camp",
+      "twitterHandle": "unknown",
+      "userBioShort": "Dummy Bio",
+      "bio": "Dummy Bio",
+      "id": 41810
+    },
+    {
       "firstName": "Mutumba",
       "lastName": "Jesse",
       "email": "jesse@gmail.com",
